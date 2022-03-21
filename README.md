@@ -9,4 +9,4 @@
 </p>
 
 ## Projects
-#### 1. [You Don't Know JS Yet Summary](https://github.com/Unosquare-CoE-JavaScript/sergio-fernadnez)
+#### 1. [You Don't Know JS Yet Summary](https://github.com/Unosquare-CoE-JavaScript/sergio-fernandez/tree/YDKJSY_summary/YDKJSY)
